@@ -9,3 +9,5 @@ Task for making street from simple line is split by several steps:
 6. Show lines by matplotlib.
 
 Is there several moment what i want to updating, but for it needs more time.
+
+![solution](https://github.com/Zexere/streets/assets/53712413/2f04bc58-5e70-46aa-8a57-58e73a114503)
