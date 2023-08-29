@@ -120,7 +120,7 @@ class CreateStreets:
 
         fig, ax = plt.subplots(figsize=(10, 10))
         gdf.plot(ax=ax, color=gdf['color'])
-        # plt.savefig('output_image.png', dpi=300)
+        # plt.savefig('solution.png', dpi=300)
         plt.show()
 
 
